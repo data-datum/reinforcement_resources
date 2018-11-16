@@ -11,6 +11,6 @@
 
 ## MOOCs
 * Reinforcement Learning by _David Silver_ [Youtube Playlist] http://bit.ly/2QOvKHH [Slides] http://bit.ly/2wuAYAl
-* Move 37 Courser by _Siraj Raval_ 
+* Move 37 Courser by _Siraj Raval_ http://bit.ly/2x4kqhY
 * Deep Reinforcement Learning by _Sergey Levine_ [Syllabus] http://bit.ly/2OblgUt
 * Reinforcement Learning Udacity [Youtube Playlist] http://bit.ly/2QORBPh
