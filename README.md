@@ -1,6 +1,6 @@
 # Reinforcement Learning - Resources
 
-## Books
+## Book
 * Reinforcement Learning by _Sutton & Barto_ [Complete Draft] http://bit.ly/2QPfvtR
 
 ## Short Videos
