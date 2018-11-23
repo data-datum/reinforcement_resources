@@ -14,3 +14,5 @@
 * Move 37 Courser by _Siraj Raval_ http://bit.ly/2x4kqhY
 * Deep Reinforcement Learning by _Sergey Levine_ [Syllabus] http://bit.ly/2OblgUt
 * Reinforcement Learning Udacity [Youtube Playlist] http://bit.ly/2QORBPh
+* Advanced Deep Learning and Reinforcement Learning _DeepMind & UCLA_ http://bit.ly/2AgSrgt
+
