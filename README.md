@@ -9,6 +9,9 @@
 * Overcoming sparse rewards in Deep RL: Curiosity, hindsight & auxiliary tasks [ArXiV Insights] http://bit.ly/2QVwTNq
 * Deep Q Learning for Video Games - The Math of Intelligence #9 [Siraj Raval] http://bit.ly/2QOvKHH
 
+## Bootcamps
+* Deep RL Bootcamp [2017] http://bit.ly/2C4RR6q
+
 ## MOOCs
 * Reinforcement Learning by _David Silver_ [Youtube Playlist] http://bit.ly/2QOvKHH [Slides] http://bit.ly/2wuAYAl
 * Move 37 Courser by _Siraj Raval_ http://bit.ly/2x4kqhY
